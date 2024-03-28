@@ -1,0 +1,66 @@
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\obj\Debug\DocuFinder.csprojResolveAssemblyReference.cache
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\ApplicationInsights.config
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\roslyn\csc.exe
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\roslyn\System.Collections.Immutable.dll
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\roslyn\vbc.exe
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\roslyn\VBCSCompiler.exe
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\roslyn\VBCSCompiler.exe.config
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\DocuFinder.dll.config
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\DocuFinder.dll
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\DocuFinder.pdb
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\Microsoft.AI.Web.dll
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\Microsoft.AI.WindowsServer.dll
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\Microsoft.ApplicationInsights.dll
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\Microsoft.AI.Web.xml
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\Microsoft.AI.WindowsServer.xml
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\Microsoft.ApplicationInsights.xml
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\obj\Debug\DocuFinder.dll
+c:\users\shanneyyy\documents\visual studio 2015\Projects\DocuFinder\DocuFinder\obj\Debug\DocuFinder.pdb
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\ApplicationInsights.config
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\roslyn\csc.exe
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\roslyn\vbc.exe
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\DocuFinder.dll.config
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\DocuFinder.dll
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\DocuFinder.pdb
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\Microsoft.AI.Web.dll
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\Microsoft.AI.Web.xml
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\obj\Debug\DocuFinder.csprojResolveAssemblyReference.cache
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\obj\Debug\DocuFinder.dll
+C:\Users\Shanneyyy\Documents\Visual Studio 2015\Projects\DocuFinder - Copy\DocuFinder\obj\Debug\DocuFinder.pdb
